@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# Hello Microverse Projecct
 
 > Learning Linting, HTML and CSS.
 
@@ -9,9 +9,31 @@
 
 - HTML, CSS, Javascript
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+-Clone the repo to your local environment
+
+## Authors
+
+👤 **Kwasi Baayeh**
+
+- GitHub: [@githubhandle](https://github.com/Baayeh)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kabaayeh)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Acknowledgments
+
+- Microverse' linting procedure
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
